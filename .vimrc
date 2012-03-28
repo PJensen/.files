@@ -38,6 +38,7 @@ iabbrev <silent> CWD <C-R>=getcwd()<CR>
 set runtimepath+=$HOME/.vim/vim-gist
 
 " Github setup
+" and ... this token is invalid.
 let g:github_user = substitute(system('git config --get user.name'), "\n", '', '')
 let g:github_token = "3b51b179b0c1d190c8835ab2ef00273a"
 
