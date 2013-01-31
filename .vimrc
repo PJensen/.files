@@ -1,6 +1,6 @@
 "
 " Author: PJensen
-" Date: 02/01/2012
+" Date: 01/31/2013
 " Description: gVim settings file.
 "
 
@@ -11,6 +11,9 @@ colorscheme darkblue
 set ts=3
 set sw=3
 set expandtab
+
+" Spell checking
+set spell
 
 " Line numbers enabled
 set nu
