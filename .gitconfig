@@ -1,0 +1,5 @@
+[user]
+	email = jensen.petej@gmail.com
+	name = PJensen
+[guitool "Ignore Forever"]
+	cmd = git update-index --assume-unchanged $FILENAME
