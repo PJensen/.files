@@ -30,7 +30,7 @@ set sm
 " Syntax highlighting
 syntax on
 
-# Ruler enabled
+"Ruler enabled
 set ruler
 
 
