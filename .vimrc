@@ -8,8 +8,8 @@
 colorscheme darkblue
 
 " Tab, Whitespace and Spacing
-set ts=3
-set sw=3
+set ts=4
+set sw=4
 set expandtab
 
 " Spell checking
@@ -29,6 +29,10 @@ set sm
 
 " Syntax highlighting
 syntax on
+
+# Ruler enabled
+set ruler
+
 
 " Windows
 source $VIMRUNTIME/mswin.vim
